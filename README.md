@@ -1,7 +1,4 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on Android Native.
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web Designs and Mobile Apps
